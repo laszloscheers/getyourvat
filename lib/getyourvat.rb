@@ -13,4 +13,3 @@ module Getyourvat
 
   class Error < StandardError; end
 end
-puts(Getyourvat::Calculate.getyourvat(20,100))
